@@ -14,7 +14,8 @@
 <p align="left">
 <a href="https://twitter.com/anshsachan421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshsachan421" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansh sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh sachan" height="30" width="40" /></a>
-<a href="https://instagram.com/anshsachan421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshsachan421" height="30" width="40" /></a>
+<a href="https://instagram.com/
+code_hackofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshsachan421" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Codewithansh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev_ansh" height="30" width="40" /></a>
 </p>
 
